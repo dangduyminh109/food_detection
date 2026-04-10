@@ -2,3 +2,4 @@ data/raw/
 data/test/
 data/processed/
 saved_models/
+.venv/
