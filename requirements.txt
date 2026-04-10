@@ -1,7 +1,6 @@
-ultralytics
 torch
 torchvision
-langchain
-chromadb
-opencv-python
-python-dotenv
+Pillow
+tqdm
+matplotlib
+numpy
